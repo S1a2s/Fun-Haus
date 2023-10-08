@@ -128,3 +128,68 @@ img {
   font-size: 102px;
   line-height: 1; /* 102px */
 }
+
+.section-subtitle-second {
+  color: #101010;
+  font-family: "Playfair Display", serif;
+  font-size: 40px;
+  line-height: 1.5;
+  font-weight: 400;
+  margin: 126px 395px 41px 4px;
+}
+.section-text-second {
+  color: #101010;
+  font-family: "DM Sans", serif;
+  font-size: 24px;
+  line-height: 1.5;
+  margin: 41px 626px 82px 4px;
+}
+.yellow-seats {
+  margin: 82px 10px 93px 342px;
+}
+.lorem-yellow {
+  color: #101010;
+  font-size: 24px;
+  line-height: 1.5;
+  margin: 72px 7px 396px 4px;
+}
+.section-title-second {
+  color: #101010;
+  font-family: "Playfair Display", serif;
+  font-size: 102px;
+  line-height: 1;
+  margin: 93px 207px 50px 4px;
+}
+.section-subtitle-third {
+  color: #101010;
+  font-family: "Playfair Display", serif;
+  font-size: 40px;
+  line-height: 1.5;
+  font-weight: 400;
+  margin: 50px 296px 45px 4px;
+}
+.section-text-third {
+  color: #101010;
+  font-family: "DM Sans", serif;
+  font-size: 24px;
+  line-height: 1.5;
+  margin: 45px 5px 50px 320px;
+}
+.two-img-text {
+  display: flex;
+  gap: 64px;
+  align-items: center;
+  justify-content: center;
+}
+.pillow-tv-text {
+}
+.pillow-tv {
+}
+.two-text {
+  color: #101010;
+  font-family: DM Sans;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 65px 84px;
+}
