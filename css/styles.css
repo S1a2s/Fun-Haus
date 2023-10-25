@@ -129,7 +129,10 @@ img {
   font-size: 102px;
   line-height: 1; /* 102px */
 }
-
+.yellow {
+  padding: 50px 0 50px 100px;
+  box-shadow: 0px 2px 4px #555555;
+}
 .section-subtitle-second {
   color: #101010;
   font-family: "Playfair Display", serif;
@@ -137,31 +140,42 @@ img {
   line-height: 1.5;
   font-weight: 400;
   margin-bottom: 41px;
-  padding: 126px 395px 41px 0;
+  max-width: 851px;
 }
 .section-text-second {
   color: #101010;
   font-family: "DM Sans", serif;
   font-size: 24px;
   line-height: 1.5;
-  margin-bottom: 82px;
-  padding-right: 625px;
+  width: 620px;
+  height: 423px;
 }
-.yellow-seats {
-  margin: 82px 10px 93px 342px;
+.lorem-seats {
+  display: flex;
 }
 .lorem-yellow {
   color: #101010;
   font-size: 24px;
   line-height: 1.5;
-  margin: 72px 7px 396px 4px;
+  width: 341px;
+  height: 113px;
+  padding-right: 7px;
+  padding-top: 75px;
+  flex-shrink: 0;
+}
+.yellow-seats {
+  padding-right: 90px;
+}
+.photo {
+  box-shadow: 0px 2px 4px #555555;
 }
 .section-title-second {
   color: #101010;
   font-family: "Playfair Display", serif;
   font-size: 102px;
   line-height: 1;
-  margin: 93px 207px 50px 4px;
+  padding-top: 93px;
+  padding-right: 207px;
 }
 .section-subtitle-third {
   color: #101010;
@@ -169,14 +183,14 @@ img {
   font-size: 40px;
   line-height: 1.5;
   font-weight: 400;
-  margin: 50px 296px 45px 4px;
+  padding: 50px 296px 45px 4px;
 }
 .section-text-third {
   color: #101010;
   font-family: "DM Sans", serif;
   font-size: 24px;
   line-height: 1.5;
-  margin: 45px 5px 50px 320px;
+  padding: 45px 5px 50px 320px;
 }
 .two-img-text {
   display: flex;
@@ -195,4 +209,7 @@ img {
   font-weight: 400;
   line-height: 1.5;
   margin: 65px 84px;
+}
+.foot {
+  background-color: #101010;
 }
