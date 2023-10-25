@@ -212,4 +212,37 @@ img {
 }
 .foot {
   background-color: #101010;
+  width: 1450px;
+  height: 690px;
+}
+.footer-link .footer-logo {
+  padding-top: 91px;
+  padding-left: 50px;
+}
+.footer-menu {
+  display: flex;
+  gap: 106px;
+  padding-left: 600px;
+}
+.footer-list {
+}
+.footer-title {
+  color: #faeb8c;
+  font-family: Playfair Display;
+  font-size: 38.989px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 198.7%; /* 77.471px */
+}
+.footer-item {
+  color: #f2f2f2;
+  font-family: DM Sans;
+  font-size: 21.267px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 198.7%;
+}
+.soc-img {
+  padding-top: 120px;
+  padding-left: 50px;
 }
